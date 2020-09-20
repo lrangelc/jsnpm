@@ -12,5 +12,8 @@
     "package"
   ],
   "author": "Luis Rangel Castro <luisrangelc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
 }
